@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: solid 1px;
+  border-color: lightgray;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: solid 1px;
+  border-color: lightgray;
+}
+
+th {
+  text-align: center;
+}
+
+tbody > tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

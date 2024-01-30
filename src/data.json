@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "firstName": "Lindsay",
+    "lastName": "Walton",
+    "title": "Front-end Developer",
+    "email": "lindsay.walton@example.com",
+    "role": "member",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 2,
+    "firstName": "Courtney",
+    "lastName": "Henry",
+    "title": "Designer",
+    "email": "courtney.henry@example.com",
+    "role": "admin",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 3,
+    "firstName": "Tom",
+    "lastName": "Cook",
+    "title": "Director, Product Development",
+    "email": "tom.cook@example.com",
+    "role": "member",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 4,
+    "firstName": "Whitney",
+    "lastName": "Francis",
+    "title": "Copywriter",
+    "email": "whitney.francis@example.com",
+    "role": "admin",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 5,
+    "firstName": "Leonard",
+    "lastName": "Krasner",
+    "title": "Senior Designer",
+    "email": "leonard.krasner@example.com",
+    "role": "owner",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 6,
+    "firstName": "Floyd",
+    "lastName": "Miles",
+    "title": "Principal Designer",
+    "email": "floy.dmiles@example.com",
+    "role": "member",
+    "isActive": false,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 7,
+    "firstName": "Emily",
+    "lastName": "Selman",
+    "title": "VP, User Experience",
+    "email": "emily.selman@example.com",
+    "role": "member",
+    "isActive": false,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 8,
+    "firstName": "Lindsay",
+    "lastName": "Walton",
+    "title": "Front-end Developer",
+    "email": "lindsay.walton@example.com",
+    "role": "member",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 9,
+    "firstName": "Courtney",
+    "lastName": "Henry",
+    "title": "Designer",
+    "email": "courtney.henry@example.com",
+    "role": "admin",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 10,
+    "firstName": "Tom",
+    "lastName": "Cook",
+    "title": "Director, Product Development",
+    "email": "tom.cook@example.com",
+    "role": "member",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 11,
+    "firstName": "Whitney",
+    "lastName": "Francis",
+    "title": "Copywriter",
+    "email": "whitney.francis@example.com",
+    "role": "admin",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 12,
+    "firstName": "Leonard",
+    "lastName": "Krasner",
+    "title": "Senior Designer",
+    "email": "leonard.krasner@example.com",
+    "role": "owner",
+    "isActive": true,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 13,
+    "firstName": "Floyd",
+    "lastName": "Miles",
+    "title": "Principal Designer",
+    "email": "floy.dmiles@example.com",
+    "role": "member",
+    "isActive": false,
+    "birthday": "1989-01-01T12:34:56"
+  },
+  {
+    "id": 14,
+    "firstName": "Emily",
+    "lastName": "Selman",
+    "title": "VP, User Experience",
+    "email": "emily.selman@example.com",
+    "role": "member",
+    "isActive": false,
+    "birthday": "1989-01-01T12:34:56"
+  }
+]
